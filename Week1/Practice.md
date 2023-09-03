@@ -1,3 +1,3 @@
-Question 1: 20(x^2)-45:
+Question 1: 20(x^2)-45
 
 
